@@ -33,8 +33,8 @@
         <td>[next]</td>
     </tr>
     <tr>
-        <td><a href="https://octo-ring.com/p/oHqte/prev">  ◀</a></td>
-        <td><a href="https://octo-ring.com/p/oHqte/random">   ↻</a></td>
-        <td><a href="https://octo-ring.com/p/oHqte/next">  ▶</a></td>
+        <td>  <a href="https://octo-ring.com/p/oHqte/prev">◀</a></td>
+        <td>   <a href="https://octo-ring.com/p/oHqte/random">↻</a></td>
+        <td>  <a href="https://octo-ring.com/p/oHqte/next">▶</a></td>
     </tr>
 </table></pre></code>
