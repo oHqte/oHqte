@@ -4,7 +4,7 @@
 oHqtegithub
 --------
 user.name     : <a href="https://github.com/oHqte"><img src="./assets/gh.svg" width="15" align="center"></a>&nbsp;oHqte
-user.email    : <a href="mailto:ohqteproton.me"><img src="./assets/mail.svg" width="15" align="center"></a>&nbsp;&lt;oHqteproton.me&gt;
+user.email    : <a href="mailto:ohqte@proton.me"><img src="./assets/mail.svg" width="15" align="center"></a>&nbsp;&lt;oHqteproton.me&gt;
 user.uptime   : 04 days ago
 user.site     : <a href="https://ohqte.pages.dev"><img src="./assets/pages.svg" width="15" align="center"></a>&nbsp;ohqte.pages.dev
 
