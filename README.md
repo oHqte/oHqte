@@ -1,5 +1,5 @@
 <pre><code>~/dev/info
-▲ gh-fetch info --user oHqte
+▲ gh-fetch info --user=ohqte
 
 oHqtegithub
 --------
