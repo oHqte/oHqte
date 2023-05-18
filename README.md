@@ -1,5 +1,5 @@
 <pre><code>~/dev/info
-▲ gh-fetch README.md
+▲ gh-fetch info --user oHqte
 
 oHqtegithub
 --------
