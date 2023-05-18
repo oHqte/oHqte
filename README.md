@@ -1,7 +1,7 @@
 <pre><code>~/dev/info
 ▲ gh-fetch info --user=ohqte
 
-oHqtegithub
+oHqte@github
 --------
 user.name     : <a href="https://github.com/oHqte"><img src="./assets/gh.svg" width="15" align="center"></a>&nbsp;oHqte
 user.email    : <a href="mailto:ohqte@proton.me"><img src="./assets/mail.svg" width="15" align="center"></a>&nbsp;&lt;ohqte@proton.me&gt;
