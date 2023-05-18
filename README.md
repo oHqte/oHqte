@@ -1,5 +1,5 @@
 <pre><code>~/dev/info
-▲ neofetch
+▲ gh-fetch README.md
 
 oHqtegithub
 --------
