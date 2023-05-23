@@ -1,9 +1,9 @@
 <pre><code>~/dev/info
 ▲ gh-fetch info --user=ohqte
 
-oHqte@github
+ohqte@github
 --------
-user.name     : <a href="https://github.com/oHqte"><img src="./assets/gh.svg" width="15" align="center"></a>&nbsp;oHqte
+user.name     : <a href="https://github.com/ohqte"><img src="./assets/gh.svg" width="15" align="center"></a>&nbsp;ohqte
 user.email    : <a href="mailto:ohqte@proton.me"><img src="./assets/mail.svg" width="15" align="center"></a>&nbsp;&lt;ohqte@proton.me&gt;
 user.uptime   : 04 days ago
 user.site     : <a href="https://ohqte.pages.dev"><img src="./assets/pages.svg" width="15" align="center"></a>&nbsp;ohqte.pages.dev
@@ -27,8 +27,8 @@ user.commits  : 09
         <td>[next]</td>
     </tr>
     <tr>
-        <td>  <a href="https://octo-ring.com/p/oHqte/prev">◀</a></td>
-        <td>   <a href="https://octo-ring.com/p/oHqte/random">↻</a></td>
-        <td>  <a href="https://octo-ring.com/p/oHqte/next">▶</a></td>
+        <td>  <a href="https://octo-ring.com/p/ohqte/prev">◀</a></td>
+        <td>   <a href="https://octo-ring.com/p/ohqte/random">↻</a></td>
+        <td>  <a href="https://octo-ring.com/p/ohqte/next">▶</a></td>
     </tr>
 </table></pre></code>
