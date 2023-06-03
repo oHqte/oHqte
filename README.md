@@ -1,3 +1,12 @@
+```
+{
+   user: {
+       name:"ohqte",
+       email:"ohqte@proton.me"
+       site:"ohqte.is-a.dev"
+   }
+}
+```
 <pre><code>~/dev/info
 ▲ gh-fetch info --user=ohqte
 
