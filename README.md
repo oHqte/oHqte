@@ -1,1 +1,1 @@
-![carbon1](https://github.com/ohqte/ohqte/assets/132732631/ba4ab795-ca30-4edf-974f-19fd6dbe436e)
+[![carbon.now.sh](https://github.com/ohqte/ohqte/assets/132732631/0cf5e5e9-df75-4f1a-bfda-1711711aefb9)](https://ohqte.is-a.dev)
